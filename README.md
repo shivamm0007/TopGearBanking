@@ -10,5 +10,5 @@ Functionalities only include;
   2. log in
   3. deposit(transactions)
 
-In the next release, more functionalities will be included and the app is eventually going to be deployed as well.
+
 
